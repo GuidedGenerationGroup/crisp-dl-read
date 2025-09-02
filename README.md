@@ -37,7 +37,7 @@ Date: 22/08/2025 - On-going (Every Friday 10pm ET / 7pm PT / Saturday 10am HKT
 | Topic                                                                                                                                              | Presenter                              | Slides                                                                                                | Video |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
 | W1 (22/8): Research Brainstorm Meeting | [Max Ku](https://kuwingfung.github.io/) (UWaterloo)                                  | N/A                                                                                                   | N/A   |
-| W2 (7/6):  Large Language Diffusion Models                                                                                                              | George Leung (Novo Nordisk)                           | N/A                                                                                                   | N/A   |
+| W2 (29/8):  Large Language Diffusion Models                                                                                                              | George Leung (Novo Nordisk)                           | N/A                                                                                                   | N/A   |
 
 
 # Cycle 4
