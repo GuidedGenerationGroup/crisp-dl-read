@@ -22,21 +22,43 @@ Presentation Guidelines
 - Content: Presenters should cover the paper’s motivation, key contributions, methodology, experiments, and results. Presenters should choose a paper they are familiar with to ensure a thorough and insightful presentation.
 - Slides: At most one figure per slide.
 
-Host: Max Ku (https://kuwingfung.github.io/)
+Hosts: 
+* Max Ku (https://kuwingfung.github.io/)
+* KellyC
+* Ray Tam
+* Chiao
+* Pingbang Hu
 
+
+# Cycle 5
+
+Date: 22/08/2025 - On-going (Every Friday 10pm ET / 7pm PT / Saturday 10am HKT
+
+| Topic                                                                                                                                              | Presenter                              | Slides                                                                                                | Video |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
+| W1 (22/8): Research Brainstorm Meeting | [Max Ku](https://kuwingfung.github.io/) (UWaterloo)                                  | N/A                                                                                                   | N/A   |
+| W2 (7/6):  Large Language Diffusion Models                                                                                                              | George Leung (Novo Nordisk)                           | N/A                                                                                                   | N/A   |
 
 
 # Cycle 4
 
-Date: 23/05/2025 - On-going (Every Friday 8pm ET)
+Date: 23/05/2025 - 08/08/2025 (Every Friday 8pm ET)
 
 
 | Topic                                                                                                                                              | Presenter                              | Slides                                                                                                | Video |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
-| W1 (30/5): ICLight: Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport | Ethan                                  | N/A                                                                                                   | N/A   |
+| W1 (30/5): ICLight: Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport | [Ethan](https://ishengfang.github.io/) (Academia Sinica)                                  | N/A                                                                                                   | N/A   |
 | W2 (7/6): Research Brainstorm Meeting                                                                                                              | Ray (Appier)                           | N/A                                                                                                   | N/A   |
 | W3 (13/6): Wayformer: Motion Forecasting via Simple & Efficient Attention Networks                                                                 | Chris (Cardiff)                        | N/A                                                                                                   | N/A   |
 | W4 (20/6): Diffusion Policy: Visuomotor Policy Learning via Action Diffusion                                                                       | [Paul Lee](https://lycpaul.com/) (UBC) | [Google Drive](https://drive.google.com/file/d/1jua0ZnEzHncyvF2LsHeXZfdHRyLrFHpk/view?usp=drive_link) | N/A   |
+| W5 (27/6): Physics of Language Models                                                                                     | Kai-Ling (Duolingo)       | N/A    | N/A   |
+| W6 (4/7): Embodied AI Agents: Modeling the World                                                                          | [Max Ku](https://kuwingfung.github.io/) (UWaterloo)             | N/A    | N/A   |
+| W7 (11/7): Misinformed by Visualization: What Do We Learn From Misinformative Visualizations?                            | Sam (Penn State)             | N/A    | N/A   |
+| W8 (18/7): OneRec: Unifying Retrieve and Rank with Generative Recommender and Preference Alignment                        | Ken Chan (TikTok)        | N/A    | N/A   |
+| W9 (25/7): Scalable Influence Function via Sparse Gradient Projection                                                     | Pingbang (UIUC)       | N/A    | N/A   |
+| W10 (1/8): Not All LLM-Generated Data Are Equal: Rethinking Data Weighting in Text Classification                         | Hsun-Yu (EPFL)         | N/A    | N/A   |
+| W11 (8/8): Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement                          | CC (FutureNest)              | N/A    | N/A   |
+
 
 # Cycle 3 
 
